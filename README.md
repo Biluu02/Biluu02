@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **biluahmad@hotmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/CVBilalAhmad](https://bit.ly/CVBilalAhmad)
+- 📄 Know about my experiences [bit.ly/CVBilalAhmad](https://bit.ly/CVBilalAhmad)
 
 - ⚡ My hobbies **In my free time I like to play the guitar, play soccer and video games.**
 
