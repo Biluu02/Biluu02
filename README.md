@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmad</h1>
-<h3 align="center">A passionate front-end developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Argentina</h3>
 
 - 🔭 I have worked in [HappyPaw](http://www.happypaw.cloud/)
 
